@@ -1,0 +1,3 @@
+Hello this is my first text file commit to the repository
+Learning to use github!
+Hi GIT!
